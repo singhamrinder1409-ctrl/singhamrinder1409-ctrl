@@ -14,8 +14,8 @@ Computer Science student at the University of Victoria (Software Systems, expect
 
 - **[AI Coding Agent Review Sentiment](https://github.com/lukethomas27/group6-aidev-research-final/tree/main/RQ1)** — Python analysis of 21,922 discussion items across five AI coding agents.
 - **[Clinic Patient Records](https://github.com/singhamrinder1409-ctrl/clinic-patient-records)** — Python patient and note management with JSON/pickle persistence and login checks.
-- **[TrailGuard](https://github.com/singhamrinder1409-ctrl/trailguard)** — Hiking navigation prototype evaluated with eight participants.
-- **[InclusiveHire](https://github.com/singhamrinder1409-ctrl/inclusivehire)** — Hiring-system requirements, accessibility mockups and interface design.
+- **[TrailGuard](https://github.com/singhamrinder1409-ctrl/trailguard-navigation)** — Hiking navigation prototype evaluated with eight participants.
+- **[InclusiveHire](https://github.com/singhamrinder1409-ctrl/inclusivehire-design)** — Hiring-system requirements, accessibility mockups and interface design.
 
 ## Tools I work with
 
