@@ -31,22 +31,25 @@ I am a computer science student with project experience in relational databases,
 - Compared VADER, TextBlob, a classifier trained on SentiCR labels and review-state signals; produced charts and statistical comparisons to examine how rankings change by method.
 
 ### Clinic Patient Records
-**Python · JSON · unittest | SENG 265 · Fall 2024 | Paired project**
+**Python · JSON · pickle · unittest | SENG 265 · Fall 2024 | Paired project**
 
-- Contributed to patient and note creation, search, updates and deletion, with login checks and exception handling.
-- Worked on a project using data-access classes, JSON patient storage and pickle note storage, with a supplied test suite containing 23 test methods.
+- Contributed to a Python application for patient and clinical-note creation, search, updates and deletion, with login/session checks and custom exceptions.
+- The implementation separates controller logic from patient and note data-access classes, with optional autosave to JSON patient files and per-patient pickle note files.
+- Supplied unit and integration tests cover authentication, patient workflows and note operations.
 
 ### TrailGuard Hiking Navigation Prototype
 **User research · Prototyping · Usability testing | SENG 310 · Spring 2026 | Four-person team**
 
-- Contributed research, prototype screens, testing and analysis for one-glance navigation, junction planning and a pre-hike checklist.
-- Helped evaluate the prototype through a team study with eight participants using moderated, think-aloud and task-based testing.
+- Contributed user research, prototype screens, testing and analysis for One-Glance Navigation, a Smart Junction Planner and a Pre-Hike Checklist.
+- The team iterated from paper sketches to a medium-fidelity prototype, adding multiple-trail support, a progress bar and interface fixes after pilot feedback.
+- Helped evaluate trail selection, checklist and navigation tasks in an eight-participant moderated, think-aloud study. Findings identified junction clarity and error recovery as areas for further work.
 
-### Inclusive and Accessible Hiring System
+### InclusiveHire: Inclusive and Accessible Hiring System
 **Requirements engineering · Accessible workflows | SENG 321 · Fall 2025 | Six-person team**
 
 - Authored Section 4 of the requirements document and a client presentation; supported mentor meetings and recorded stakeholder discussion notes.
-- Contributed to solution design for accessible hiring workflows, explainable resume screening, accommodation disclosure and role-specific dashboards.
+- Contributed to a proposed hiring-platform design with AI-assisted resume parsing, shortlist explanations, recruiter overrides and dashboards for applicants, recruiters, hiring managers and HR/DEI teams.
+- The design specifies screen-reader support, keyboard navigation, high-contrast viewing, separate accommodation-data storage, role-based access and audit logs.
 
 ## Education
 
