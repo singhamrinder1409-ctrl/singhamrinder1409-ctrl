@@ -12,9 +12,7 @@ Computer Science student at the University of Victoria (Software Systems, expect
 
 ## Selected projects
 
-Links open project repositories; the sentiment analysis link opens a write-up.
-
-- **[AI Coding Agent Review Sentiment](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#ai-coding-agent-review-sentiment)** — Python analysis of 21,922 discussion items across five AI coding agents.
+- **[AI Coding Agent Review Sentiment](https://github.com/lukethomas27/group6-aidev-research-final/tree/main/RQ1)** — Python analysis of 21,922 discussion items across five AI coding agents.
 - **[Clinic Patient Records](https://github.com/singhamrinder1409-ctrl/clinic-patient-records)** — Python patient and note management with JSON/pickle persistence and login checks.
 - **[TrailGuard](https://github.com/singhamrinder1409-ctrl/trailguard)** — Hiking navigation prototype tested with eight participants, identifying junction clarity and recovery improvements.
 - **[InclusiveHire](https://github.com/singhamrinder1409-ctrl/inclusivehire)** — Accessible hiring-system design; authored a requirements section and client presentation.
