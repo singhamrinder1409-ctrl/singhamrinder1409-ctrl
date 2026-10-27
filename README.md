@@ -6,16 +6,14 @@ I'm a Computer Science student at the University of Victoria, studying Software 
 
 ## Currently building
 
-**Co-op Application Tracker** is a team database project for organizing co-op applications. I proposed the concept and contribute schema design, SQL queries, Python verification, migration and documentation. The project uses a nine-table MySQL database, with checks for application workflows and data preservation.
+**Co-op Application Tracker** — A MySQL team project for tracking applications, with schema design, SQL queries and Python verification.
 
-[Project background](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#co-op-application-tracker)
+## Selected projects
 
-## Selected work
-
-- **[AI Coding Agent Review Sentiment](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#ai-coding-agent-review-sentiment)** — Analyzed 21,922 human discussion items across five AI coding agents using Python and pandas, comparing sentiment methods and review-state signals.
-- **[Clinic Patient Records](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#clinic-patient-records)** — Contributed to a Python patient and note management application with data-access classes, JSON and pickle persistence, login checks and automated tests.
-- **[TrailGuard](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#trailguard-hiking-navigation-prototype)** — Contributed research, interface prototypes and an eight-participant usability study for hiking navigation, junction planning and pre-hike preparation.
-- **[InclusiveHire](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#inclusivehire-inclusive-and-accessible-hiring-system)** — Contributed requirements and solution design for a proposed accessible hiring platform with explainable screening and accommodation workflows.
+- **[AI Coding Agent Review Sentiment](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#ai-coding-agent-review-sentiment)** — Python analysis of 21,922 discussion items across five AI coding agents.
+- **[Clinic Patient Records](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#clinic-patient-records)** — Python patient and note management with file persistence.
+- **[TrailGuard](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#trailguard-hiking-navigation-prototype)** — Hiking navigation prototype evaluated with eight participants.
+- **[InclusiveHire](https://github.com/singhamrinder1409-ctrl/singhamrinder1409-ctrl/blob/main/PROJECTS.md#inclusivehire-inclusive-and-accessible-hiring-system)** — Requirements and design for accessible, explainable hiring.
 
 ## Tools I work with
 
