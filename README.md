@@ -8,14 +8,14 @@ Computer Science student at the University of Victoria (Software Systems, expect
 
 ## Currently building
 
-**[Co-op Application Tracker](https://github.com/singhamrinder1409-ctrl/coop-application-tracker)** — A team project for organizing co-op applications and tracking their progress. I proposed the concept and contributed database design, SQL queries and Python verification for a nine-table MySQL database.
+**[Co-op Application Tracker](https://github.com/singhamrinder1409-ctrl/coop-application-tracker)** — A MySQL team project for tracking applications, interviews and offers. I proposed the concept and contributed schema design, SQL queries and Python verification.
 
 ## Selected projects
 
 - **[AI Coding Agent Review Sentiment](https://github.com/lukethomas27/group6-aidev-research-final/tree/main/RQ1)** — Python analysis of 21,922 discussion items across five AI coding agents.
 - **[Clinic Patient Records](https://github.com/singhamrinder1409-ctrl/clinic-patient-records)** — Python patient and note management with JSON/pickle persistence and login checks.
-- **[TrailGuard](https://github.com/singhamrinder1409-ctrl/trailguard)** — Hiking navigation prototype tested with eight participants, identifying junction clarity and recovery improvements.
-- **[InclusiveHire](https://github.com/singhamrinder1409-ctrl/inclusivehire)** — Accessible hiring-system design; contributed interface requirements, accessibility mockups and foreign-key documentation.
+- **[TrailGuard](https://github.com/singhamrinder1409-ctrl/trailguard)** — Hiking navigation prototype evaluated with eight participants.
+- **[InclusiveHire](https://github.com/singhamrinder1409-ctrl/inclusivehire)** — Hiring-system requirements, accessibility mockups and interface design.
 
 ## Tools I work with
 
